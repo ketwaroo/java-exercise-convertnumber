@@ -124,6 +124,7 @@ public class IntToStr {
 
     /**
      * could be localised with some effort
+	 * Could load translation files based on locale configuration.
      */
     private void initData() {
         chunkSizes = new HashMap<>();
